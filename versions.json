@@ -2,5 +2,6 @@
     "6.5.12": "https://github.com/JackNova/dynatrace-carthage-poc/blob/master/dynatrace-mobile-agent-ios-6.5.12.1015.zip?raw=true",
     "6.5.13": "https://github.com/JackNova/dynatrace-carthage-poc/blob/master/dynatrace-mobile-agent-ios-6.5.12.1015.zip?raw=true",
     "6.5.14": "https://github.com/JackNova/dynatrace-carthage-poc/blob/master/carthage-archive/Dynatrace.framework.zip?raw=true",
-    "6.5.15": "https://github.com/JackNova/dynatrace-carthage-poc/blob/master/carthage-archive-extras/Dynatrace.framework.zip?raw=true"
+    "6.5.15": "https://github.com/JackNova/dynatrace-carthage-poc/blob/master/carthage-archive-extras/Dynatrace.framework.zip?raw=true",
+    "6.5.16": "https://github.com/JackNova/dynatrace-carthage-poc/blob/master/carthage-archive-extras/Carthage.zip?raw=true"
 }
